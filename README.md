@@ -1,9 +1,9 @@
 Minetest: Mission statement
-###########################
+---------------------------
 
 
 0. Purpose of this repository
-=============================
+-----------------------------
 
 The purpose of this repository is to collaboratively create:
 
@@ -17,14 +17,14 @@ The purpose of this repository is to collaboratively create:
 
 
 1. Purpose of the created documents
-===================================
+-----------------------------------
 
 The purpose of the created documents, outlined in the previous section, is to
 improve the current state and provide a future proof foundation for the project.
 
 
 2. It is not done until it is done
-==================================
+----------------------------------
 
 The documents in this repostiroy are supposed to be criticized, improved,
 changed, reworded and maybe even deleted if not found useful. The work is not
@@ -32,7 +32,7 @@ done until it is done, therefor all documents must be seen as transient.
 
 
 3. How to contribute
-====================
+--------------------
 
 The issue tracker is open for discussions and pull requests will be looked at.
 
