@@ -22,8 +22,8 @@ already existing code.
 2. Flexible
 -----------
 
-The engine itself should be flexible by not making narrow assumptions about
-certain usecases and by not imposing arbitrary limits on its users.
+The engine itself should be flexible by providing versatile features and options
+to allow fast and easy customization and change of the provided functionality.
 
 
 3. Feature-rich
